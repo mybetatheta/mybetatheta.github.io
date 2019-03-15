@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/categories/java/aaa.html</loc>
+    
+    <lastmod>2019-03-15T03:15:11.776Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2019-03-15T03:15:11.775Z</lastmod>
