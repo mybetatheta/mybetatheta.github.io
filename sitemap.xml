@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/pageName/index.html</loc>
+    <loc>http://yoursite.com/wiki/aaa/</loc>
     
-    <lastmod>2019-03-15T07:44:58.644Z</lastmod>
+    <lastmod>2019-03-15T08:27:05.463Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/wiki/java/bbName/</loc>
+    
+    <lastmod>2019-03-15T08:17:44.278Z</lastmod>
     
   </url>
   
@@ -24,13 +31,6 @@
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2019-03-15T03:15:11.776Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/java/aaa.html</loc>
     
     <lastmod>2019-03-15T03:15:11.776Z</lastmod>
     
