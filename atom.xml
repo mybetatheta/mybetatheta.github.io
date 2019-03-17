@@ -5,9 +5,9 @@
   <subtitle>我的知识体系整理</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-03-15T08:27:05.463Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://wiki.mybetatheta.com/"/>
+  <updated>2019-03-15T14:13:00.326Z</updated>
+  <id>http://wiki.mybetatheta.com/</id>
   
   <author>
     <name>mybetatheta</name>
@@ -17,35 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>aaa</title>
-    <link href="http://yoursite.com/wiki/aaa/"/>
-    <id>http://yoursite.com/wiki/aaa/</id>
-    <published>2019-03-15T08:26:51.000Z</published>
-    <updated>2019-03-15T08:27:05.463Z</updated>
+    <title>test</title>
+    <link href="http://wiki.mybetatheta.com/wiki/test/"/>
+    <id>http://wiki.mybetatheta.com/wiki/test/</id>
+    <published>2019-03-15T14:13:00.000Z</published>
+    <updated>2019-03-15T14:13:00.326Z</updated>
     
-    <content type="html"><![CDATA[<p>xxxxx</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;xxxxx&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>postName</title>
-    <link href="http://yoursite.com/wiki/postName/"/>
-    <id>http://yoursite.com/wiki/postName/</id>
-    <published>2019-03-15T07:41:18.000Z</published>
-    <updated>2019-03-15T07:41:18.475Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href></a></li><li><a href></a></li></ul></blockquote>]]></content>
     
     <summary type="html">
     
@@ -53,46 +31,20 @@
       
         &lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/l
+&lt;li&gt;&lt;a href&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/u
       
     
     </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>javapostName</title>
-    <link href="http://yoursite.com/wiki/java/bbName/"/>
-    <id>http://yoursite.com/wiki/java/bbName/</id>
-    <published>2019-03-15T07:41:18.000Z</published>
-    <updated>2019-03-15T08:17:44.278Z</updated>
-    
-    <content type="html"><![CDATA[<p>bbbbbbbbb</p><p>asdfasdf</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote><ul><li><a href=""></a></li><li><a href=""></a></li></ul></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;bbbbbbbbb&lt;/p&gt;
-&lt;p&gt;asdfasdf&lt;/p&gt;
-&lt;h2 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h2&gt;&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&quot;
-      
-    
-    </summary>
-    
-      <category term="java" scheme="http://yoursite.com/categories/java/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/wiki/hello-world/"/>
-    <id>http://yoursite.com/wiki/hello-world/</id>
+    <link href="http://wiki.mybetatheta.com/wiki/hello-world/"/>
+    <id>http://wiki.mybetatheta.com/wiki/hello-world/</id>
     <published>2018-08-04T08:38:31.317Z</published>
     <updated>2018-08-04T08:38:31.317Z</updated>
     

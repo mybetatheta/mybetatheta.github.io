@@ -2,49 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/wiki/aaa/</loc>
+    <loc>http://wiki.mybetatheta.com/wiki/test/</loc>
     
-    <lastmod>2019-03-15T08:27:05.463Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/wiki/java/bbName/</loc>
-    
-    <lastmod>2019-03-15T08:17:44.278Z</lastmod>
+    <lastmod>2019-03-15T14:13:00.326Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/wiki/postName/</loc>
+    <loc>http://wiki.mybetatheta.com/myprojects/index.html</loc>
     
-    <lastmod>2019-03-15T07:41:18.475Z</lastmod>
+    <lastmod>2019-03-15T10:00:07.431Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://wiki.mybetatheta.com/tags/index.html</loc>
     
     <lastmod>2019-03-15T03:15:11.778Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://wiki.mybetatheta.com/categories/index.html</loc>
     
     <lastmod>2019-03-15T03:15:11.776Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://wiki.mybetatheta.com/about/index.html</loc>
     
     <lastmod>2019-03-15T03:15:11.775Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/wiki/hello-world/</loc>
+    <loc>http://wiki.mybetatheta.com/wiki/hello-world/</loc>
     
     <lastmod>2018-08-04T08:38:31.317Z</lastmod>
     
